@@ -11,6 +11,11 @@
 
 This is a monorepo for an eCommerce application with separate Admin and Store applications. It is built using modern web technologies such as Next.js, TypeScript, Prisma, Tailwind CSS, and Clerk for authentication. The admin panel allows for product management, order tracking, and more, while the store allows customers to browse products, view details, and complete purchases.
 
+## Deployed URLs
+
+-   **Admin Panel**: [app-ecommerce-admin.vercel.app](https://app-ecommerce-admin.vercel.app)
+-   **Storefront**: [app-ecommerce-store.vercel.app](https://app-ecommerce-store.vercel.app)
+
 ## Applications
 
 -   **Ecommerce Admin**: An admin dashboard for managing the eCommerce store's products, orders, categories, etc.
